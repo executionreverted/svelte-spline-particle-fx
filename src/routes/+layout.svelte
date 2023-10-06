@@ -6,9 +6,9 @@
 
 <div class="app">
 	<Header />
-	<Spline/>
 	<main>
 		<slot />
+		<Spline/>
 	</main>
 	<footer>
 		<p>visit <a href="https://kit.svelte">kit.svelte.dev</a> to learn SvelteKit</p>
