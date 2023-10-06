@@ -1,3 +1,8 @@
+# Spline & Svelte
+This repository simply shows you how to load your spline scenes in svelte, manipulate variables and trigger events.
+
+check the Spline.svelte component to see codes.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
