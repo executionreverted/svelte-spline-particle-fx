@@ -3,6 +3,10 @@ This repository simply shows you how to load your spline scenes in svelte, manip
 
 check the Spline.svelte component to see codes.
 
+visit [Spline Community](https://app.spline.design/community/file/33c3e7b7-b30c-4755-acd7-7fda980f4f67) for scene
+visit [kit.svelte.dev](https://kit.svelte) to learn SvelteKit
+visit [spline.design](https://spline.design) to learn about Spline
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).

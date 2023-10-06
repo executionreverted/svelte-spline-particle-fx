@@ -11,9 +11,10 @@
 		<Spline/>
 	</main>
 	<footer>
+		<p>visit <a href="https://app.spline.design/community/file/33c3e7b7-b30c-4755-acd7-7fda980f4f67">SplineCommunity</a> for scene</p>
+		<p>visit <a href="https://github.com/executionreverted/svelte-spline-particle-fx">github</a> for source code</p>
 		<p>visit <a href="https://kit.svelte">kit.svelte.dev</a> to learn SvelteKit</p>
-		<p>visit <a class="spline" href="https://spline.design">spline.design</a> to learn Spline</p>
-
+		<p>visit <a class="spline" href="https://spline.design">spline.design</a> to learn about Spline</p>
 	</footer>
 </div>
 
